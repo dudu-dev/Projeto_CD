@@ -1,2 +1,2 @@
 # Projeto_CD
-Projeto de ciência de dado 
+Projeto de ciência de dados 
